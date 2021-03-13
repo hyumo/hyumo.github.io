@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>control on HYUMO</title>
+    <link>/zh/tags/control/</link>
+    <description>Recent content in control on HYUMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 Hang Yu
+</copyright>
+    <lastBuildDate>Sat, 13 Mar 2021 00:52:54 -0500</lastBuildDate><atom:link href="/zh/tags/control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lti</title>
+      <link>/zh/projects/lti/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/projects/lti/</guid>
+      <description>&lt;p&gt;基于Eigen3的线性是不变系统分析库，仅包含单一头文件C++17库。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

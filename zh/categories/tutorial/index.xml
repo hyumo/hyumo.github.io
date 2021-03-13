@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on HYUMO</title>
+    <link>/zh/categories/tutorial/</link>
+    <description>Recent content in tutorial on HYUMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 Hang Yu
+</copyright>
+    <lastBuildDate>Fri, 20 Nov 2020 22:52:56 +0800</lastBuildDate><atom:link href="/zh/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelica语言入门01 - 初窥Modelica</title>
+      <link>/zh/posts/modelica-primer-01/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/posts/modelica-primer-01/</guid>
+      <description>&lt;p&gt;Modelica语言入门教程 01&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modelica语言入门02 - 环境搭建</title>
+      <link>/zh/posts/modelica-primer-02/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/posts/modelica-primer-02/</guid>
+      <description>&lt;p&gt;Modelica语言入门教程 02&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modelica语言入门03 - 模型搭建流程</title>
+      <link>/zh/posts/modelica-primer-03/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/posts/modelica-primer-03/</guid>
+      <description>&lt;p&gt;Modelica语言入门教程 03&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modelica语言入门04a - 基础语法之通用语法</title>
+      <link>/zh/posts/modelica-primer-04a/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/posts/modelica-primer-04a/</guid>
+      <description>&lt;p&gt;Modelica语言入门教程 04a&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

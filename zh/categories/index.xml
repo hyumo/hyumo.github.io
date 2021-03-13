@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HYUMO</title>
+    <link>/zh/categories/</link>
+    <description>Recent content in Categories on HYUMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 Hang Yu
+</copyright>
+    <lastBuildDate>Sat, 13 Mar 2021 00:52:54 -0500</lastBuildDate><atom:link href="/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>app</title>
+      <link>/zh/categories/app/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/categories/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cpp</title>
+      <link>/zh/categories/cpp/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/categories/cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>library</title>
+      <link>/zh/categories/library/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/categories/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>/zh/categories/open-source/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/zh/categories/python/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>/zh/categories/tutorial/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

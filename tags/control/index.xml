@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>control on HYUMO</title>
+    <link>/tags/control/</link>
+    <description>Recent content in control on HYUMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Hang Yu
+</copyright>
+    <lastBuildDate>Sat, 13 Mar 2021 00:52:54 -0500</lastBuildDate><atom:link href="/tags/control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lti</title>
+      <link>/projects/lti/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/projects/lti/</guid>
+      <description>&lt;p&gt;A header only C++17 library for Linear Time Invariant system analysis and design based on Eigen3.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

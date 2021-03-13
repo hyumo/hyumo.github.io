@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HYUMO</title>
+    <link>/zh/tags/</link>
+    <description>Recent content in Tags on HYUMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 Hang Yu
+</copyright>
+    <lastBuildDate>Sat, 13 Mar 2021 00:52:54 -0500</lastBuildDate><atom:link href="/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>control</title>
+      <link>/zh/tags/control/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/tags/control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cpp</title>
+      <link>/zh/tags/cpp/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/tags/cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fmu</title>
+      <link>/zh/tags/fmu/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/tags/fmu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/zh/tags/python/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/zh/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gui</title>
+      <link>/zh/tags/gui/</link>
+      <pubDate>Sat, 13 Mar 2021 00:46:36 -0500</pubDate>
+      
+      <guid>/zh/tags/gui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sindy</title>
+      <link>/zh/tags/sindy/</link>
+      <pubDate>Sat, 13 Mar 2021 00:46:36 -0500</pubDate>
+      
+      <guid>/zh/tags/sindy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysid</title>
+      <link>/zh/tags/sysid/</link>
+      <pubDate>Sat, 13 Mar 2021 00:46:36 -0500</pubDate>
+      
+      <guid>/zh/tags/sysid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modelica</title>
+      <link>/zh/tags/modelica/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/tags/modelica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>/zh/tags/tutorial/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vlog</title>
+      <link>/zh/tags/vlog/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/tags/vlog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

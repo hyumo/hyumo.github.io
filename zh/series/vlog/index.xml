@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vlog on HYUMO</title>
+    <link>/zh/series/vlog/</link>
+    <description>Recent content in vlog on HYUMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2021 Hang Yu
+</copyright>
+    <lastBuildDate>Fri, 20 Nov 2020 22:52:56 +0800</lastBuildDate><atom:link href="/zh/series/vlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>就活一次，及时行乐</title>
+      <link>/zh/posts/fuckoff-2020/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      
+      <guid>/zh/posts/fuckoff-2020/</guid>
+      <description>&lt;p&gt;美好的回忆皆源于愚蠢的想法&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

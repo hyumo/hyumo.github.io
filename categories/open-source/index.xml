@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on HYUMO</title>
+    <link>/categories/open-source/</link>
+    <description>Recent content in open source on HYUMO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Hang Yu
+</copyright>
+    <lastBuildDate>Sat, 13 Mar 2021 00:52:54 -0500</lastBuildDate><atom:link href="/categories/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PySINDyGUI</title>
+      <link>/projects/pysindy/</link>
+      <pubDate>Sat, 13 Mar 2021 00:46:36 -0500</pubDate>
+      
+      <guid>/projects/pysindy/</guid>
+      <description>&lt;p&gt;Python graphical interface for PySINDy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fmucc</title>
+      <link>/projects/fmucc/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/projects/fmucc/</guid>
+      <description>&lt;p&gt;Converts a source code FMU to a target platform (win64/linux64) binary FMU through &lt;code&gt;git push&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>lti</title>
+      <link>/projects/lti/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/projects/lti/</guid>
+      <description>&lt;p&gt;A header only C++17 library for Linear Time Invariant system analysis and design based on Eigen3.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fmilib&#43;&#43;</title>
+      <link>/projects/fmilibpp/</link>
+      <pubDate>Sat, 13 Mar 2021 00:52:54 -0500</pubDate>
+      
+      <guid>/projects/fmilibpp/</guid>
+      <description>&lt;p&gt;A header only modern c++ wrapper for &lt;code&gt;FMILibrary&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
